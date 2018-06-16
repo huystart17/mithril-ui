@@ -1,0 +1,21 @@
+{
+  "name": "mithril-ui",
+  "version": "1.0.0",
+  "description": "Các mithril component ",
+  "main": "index.js",
+  "dependencies": {
+    "animejs": "^2.2.0",
+    "bss": "^1.1.8",
+    "c3": "^0.6.2",
+    "d3": "^5.4.0",
+    "is_js": "^0.9.0",
+    "mithril": "^1.1.6",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
